@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Fragmentruntimeexample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="User_Details">User Details</string>
+    <string name="HealthDetails">Health Details</string>
+    <string name="JobDetails">Job Details</string>
+    <string name="name">Name</string>
+    <string name="Address">Address</string>
+    <string name="Email">Email</string>
+    <string name="phoneno">Phone No.</string>
+    <string name="Next"><![CDATA[Next >]]></string>
+    <string name="pname">Patient name</string>
+    <string name="padd">Patient address</string>
+    <string name="pmail">Patient Email</string>
+    <string name="pmailll">Patient Email</string>
+    <string name="pno">Patient Contact</string>
+    <string name="Cname" />
+    <string name="ccname">Company Name</string>
+    <string name="Designatn">Designation</string>
+    <string name="Salary">Salary</string>
+</resources>
